@@ -1,0 +1,3 @@
+[submodule "DotNetChallenge"]
+	path = DotNetChallenge
+	url = https://github.com/DieterN/DotNetChallenge
